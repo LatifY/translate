@@ -1,5 +1,10 @@
-There are 6 UI languages!
+<ul>
+<li>There are 6 UI languages!</li>
+<li>Can translate between 6 languages</li>
+</ul>
+<br>
 ***This Python Program created by Abdullatif Yılmaz***
+<br>
 ***This App uses Google Translate.(with Selenium)***
 
 Note from Developer:
